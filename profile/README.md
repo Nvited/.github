@@ -1,4 +1,6 @@
-## Hi there 👋
+# Welcome to Nvited! 🎉
+
+Nvited is a social media startup that allows users to utilize the power of social media to create real life interactions and experiences. We believe that by creating a space where people can connect with each other on a deeper level, we can help to combat the isolation and disconnection that many people experience in today's digital world.
 
 <!--
 
